@@ -12,7 +12,7 @@ O objetivo dessa iniciativa experimental é incetivar pessoas a estudarem novos 
 
 ### Funcionalidades
 
-* Inserção de caminhos de diretório de imagens, vídeos e audios.
+* Inserção de caminhos de diretório de imagens, vídeos e áudios.
 * Inserção de entradas de texto em todos os idiomas suportados pelo Gemini, via API do Google AI Studio.
 * Uso do método de chatbot para usar múltiplas vezes o programa, cumprindo o objetivo designado.
 * Visualização melhorada para uma navegação mais confortável.

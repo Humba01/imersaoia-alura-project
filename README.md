@@ -24,6 +24,7 @@ O objetivo dessa iniciativa experimental é incetivar pessoas a estudarem novos 
 ### Funcionalidades desejadas, porém não implementadas
 
 * A resposta dada do modelo colorida em azul, para diferenciar da resposta do usuário.
+* Interface de usuário com Tecnologias Web.
 
 ### Conclusão
 
